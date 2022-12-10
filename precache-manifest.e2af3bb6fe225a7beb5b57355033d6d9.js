@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a9b53ac59cef28a310be9585d4dee2e",
+    "revision": "559a48b2264f3b0d7b0a27aec9815df9",
     "url": "/demo-chatgo/index.html"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo-chatgo/static/css/4.a3d492d8.chunk.css"
   },
   {
-    "revision": "81ddceef8ab46fa324da",
+    "revision": "73077407dbf9ae404d61",
     "url": "/demo-chatgo/static/css/main.e120f713.chunk.css"
   },
   {
-    "revision": "d2d474ef34fbc1e19f76",
-    "url": "/demo-chatgo/static/js/2.02bcce4c.chunk.js"
+    "revision": "d2c96f94dad60a19a2a9",
+    "url": "/demo-chatgo/static/js/2.7d8964b6.chunk.js"
   },
   {
     "revision": "0818b375219345d6ea9e",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo-chatgo/static/js/4.b8b56ed5.chunk.js"
   },
   {
-    "revision": "81ddceef8ab46fa324da",
-    "url": "/demo-chatgo/static/js/main.06685476.chunk.js"
+    "revision": "73077407dbf9ae404d61",
+    "url": "/demo-chatgo/static/js/main.873da339.chunk.js"
   },
   {
     "revision": "713b58684c6b15b66be3",
