@@ -1,0 +1,78 @@
+.dialog {
+    font-weight: 500;
+    font-size: 24px;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    row-gap: 10px;
+    background-color: #212329;
+    padding: 35px 30px 22px 30px;
+}
+
+.header {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 18px;
+}
+
+.title {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: var(--color-iron);
+}
+
+.interlocutor {
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    color: var(--color-iron);
+}
+
+.list {
+    width: 100%;
+    flex: 1;
+}
+
+.form {
+    width: 100%;
+    border-top: 1px solid var(--color-trout);
+}
+
+.text {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: var(--color-iron);
+    caret-color: var(--color-iron);
+}
+
+.text::placeholder {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #777777;
+}
+
+.text:focus::placeholder {
+    color: var(--color-iron);
+}
+
+.tweet {
+    width: 100%;
+    padding: 10px 0;
+    border-radius: 5px;
+    background-color: var(--color-trout);
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    color: var(--color-iron);
+}

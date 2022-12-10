@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "montserrat";
+    src: local("montserrat"),
+     url("./fonts/montserrat-semibold.ttf") format("truetype");
+    font-weight: 600;
+  }
+  
+  @font-face {
+    font-family: "montserrat";
+    src: local("montserrat"),
+     url("./fonts/montserrat-medium.ttf") format("truetype");
+    font-weight: 500;
+  }
+  
+  @font-face {
+    font-family: "montserrat";
+    src: local("montserrat"),
+     url("./fonts/montserrat-regular.ttf") format("truetype");
+    font-weight: 400;
+  }

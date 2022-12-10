@@ -1,0 +1,39 @@
+.dialogs {
+    height: 100%;
+    display: grid;
+    grid-template-columns: 260px 425px;
+}
+
+.chats {
+    padding: 35px 22px 22px 22px;
+    background-color: #131517;
+    display: flex;
+    flex-direction: column;
+    row-gap: 2px;
+}
+
+.dialog {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 10px;
+    background-color: #212329;
+}
+
+.title {
+    margin-left: 8px;
+    margin-bottom: 13px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: var(--color-iron);
+}
+
+.descr {
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: center;
+    color: var(--color-trout);
+}

@@ -1,0 +1,15 @@
+.app {
+    display: flex;
+    width: 745px;
+    height: 570px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.content {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    color: var(--color-iron);
+    background-color: #131517;
+}

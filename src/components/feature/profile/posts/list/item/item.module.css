@@ -1,0 +1,51 @@
+.item {
+    margin-bottom: 25px;
+}
+
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 15px;
+}
+
+.text {
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.03em;
+    color: var(--color-iron);
+    margin-bottom: 15px;
+}
+
+.socialAction {
+    width: 100%;
+    display: flex;
+    column-gap: 24px;
+}
+
+.images {
+    margin-bottom: 15px;
+}
+
+.heart, .comment, .repost, .view {
+    display: flex;
+    align-items: center;
+    column-gap: 5px;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    cursor: pointer;
+    color: var(--color-trout);
+}
+
+.view {
+    cursor: default;
+    justify-content: flex-end;
+    flex: 1;
+}
+
+.actionMenu {
+    cursor: pointer;
+}

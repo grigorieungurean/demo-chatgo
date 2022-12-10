@@ -1,0 +1,29 @@
+.message {
+    width: 100%;
+    display: flex;
+    column-gap: 10px;
+    padding: 8px;
+    border-radius: 5px;
+    transition: 0.1s background-color ease-in-out;
+}
+
+.content {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.info {
+    display: flex;
+    column-gap: 10px;
+    justify-content: space-between;
+}
+
+.text {
+    text-align: left;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.03em;
+    color: #939393;
+}

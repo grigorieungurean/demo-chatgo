@@ -1,0 +1,18 @@
+.status {
+  position: sticky;
+  top: 0;
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+  font-weight: bold;
+  font-size: 13px;
+  margin-bottom: 15px;
+  padding-top: 37px;
+  padding-bottom: 10px;
+  background-color: #131517;
+}
+
+.text {
+  font-weight: normal;
+  font-size: 12px;
+}

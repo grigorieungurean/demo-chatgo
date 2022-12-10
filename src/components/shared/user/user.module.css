@@ -1,0 +1,11 @@
+.user {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    row-gap: 1px;
+}

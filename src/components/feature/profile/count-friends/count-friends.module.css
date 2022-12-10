@@ -1,0 +1,43 @@
+.count {
+    display: flex;
+    align-items: center;
+}
+
+.count svg {
+    margin-right: 10px;
+}
+
+.title {
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 12px;
+    color: var(--color-iron);
+    margin-right: 20px;
+}
+
+.avatars {
+    width: 62px;
+    height: 24px;
+    position: relative;
+}
+
+.avatars img:nth-child(1) {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.avatars img:nth-child(2) {
+    position: absolute;
+    top: 0;
+    left: 19px;
+    z-index: 2;
+}
+
+.avatars img:nth-child(3) {
+    position: absolute;
+    top: 0;
+    left: 38px;
+    z-index: 3;
+}
