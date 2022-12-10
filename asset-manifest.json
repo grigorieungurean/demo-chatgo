@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/demo-chatgo/static/css/main.e120f713.chunk.css",
-    "main.js": "/demo-chatgo/static/js/main.873da339.chunk.js",
-    "main.js.map": "/demo-chatgo/static/js/main.873da339.chunk.js.map",
+    "main.js": "/demo-chatgo/static/js/main.63ced57c.chunk.js",
+    "main.js.map": "/demo-chatgo/static/js/main.63ced57c.chunk.js.map",
     "runtime~main.js": "/demo-chatgo/static/js/runtime~main.eed0408f.js",
     "runtime~main.js.map": "/demo-chatgo/static/js/runtime~main.eed0408f.js.map",
     "static/js/2.7d8964b6.chunk.js": "/demo-chatgo/static/js/2.7d8964b6.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.b8b56ed5.chunk.js": "/demo-chatgo/static/js/4.b8b56ed5.chunk.js",
     "static/js/4.b8b56ed5.chunk.js.map": "/demo-chatgo/static/js/4.b8b56ed5.chunk.js.map",
     "index.html": "/demo-chatgo/index.html",
-    "precache-manifest.e2af3bb6fe225a7beb5b57355033d6d9.js": "/demo-chatgo/precache-manifest.e2af3bb6fe225a7beb5b57355033d6d9.js",
+    "precache-manifest.b431ccf4f227804f44f7c2f3ec135aba.js": "/demo-chatgo/precache-manifest.b431ccf4f227804f44f7c2f3ec135aba.js",
     "service-worker.js": "/demo-chatgo/service-worker.js",
     "static/css/3.77f50041.chunk.css.map": "/demo-chatgo/static/css/3.77f50041.chunk.css.map",
     "static/css/4.a3d492d8.chunk.css.map": "/demo-chatgo/static/css/4.a3d492d8.chunk.css.map",
