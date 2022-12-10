@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/demo-chatgo/static/css/main.e120f713.chunk.css",
+    "main.js": "/demo-chatgo/static/js/main.96759138.chunk.js",
+    "main.js.map": "/demo-chatgo/static/js/main.96759138.chunk.js.map",
+    "runtime~main.js": "/demo-chatgo/static/js/runtime~main.eed0408f.js",
+    "runtime~main.js.map": "/demo-chatgo/static/js/runtime~main.eed0408f.js.map",
+    "static/js/2.02bcce4c.chunk.js": "/demo-chatgo/static/js/2.02bcce4c.chunk.js",
+    "static/js/2.02bcce4c.chunk.js.map": "/demo-chatgo/static/js/2.02bcce4c.chunk.js.map",
+    "static/css/3.77f50041.chunk.css": "/demo-chatgo/static/css/3.77f50041.chunk.css",
+    "static/js/3.78a29493.chunk.js": "/demo-chatgo/static/js/3.78a29493.chunk.js",
+    "static/js/3.78a29493.chunk.js.map": "/demo-chatgo/static/js/3.78a29493.chunk.js.map",
+    "static/css/4.a3d492d8.chunk.css": "/demo-chatgo/static/css/4.a3d492d8.chunk.css",
+    "static/js/4.b8b56ed5.chunk.js": "/demo-chatgo/static/js/4.b8b56ed5.chunk.js",
+    "static/js/4.b8b56ed5.chunk.js.map": "/demo-chatgo/static/js/4.b8b56ed5.chunk.js.map",
+    "index.html": "/demo-chatgo/index.html",
+    "precache-manifest.c595645e0d5e6ce9579a8b2e6b7d2ba0.js": "/demo-chatgo/precache-manifest.c595645e0d5e6ce9579a8b2e6b7d2ba0.js",
+    "service-worker.js": "/demo-chatgo/service-worker.js",
+    "static/css/3.77f50041.chunk.css.map": "/demo-chatgo/static/css/3.77f50041.chunk.css.map",
+    "static/css/4.a3d492d8.chunk.css.map": "/demo-chatgo/static/css/4.a3d492d8.chunk.css.map",
+    "static/css/main.e120f713.chunk.css.map": "/demo-chatgo/static/css/main.e120f713.chunk.css.map",
+    "static/media/icons.svg": "/demo-chatgo/static/media/icons.1895f619.svg",
+    "static/media/images-1.jpg": "/demo-chatgo/static/media/images-1.c2574d71.jpg",
+    "static/media/images-2.jpg": "/demo-chatgo/static/media/images-2.f3b91832.jpg",
+    "static/media/index.css": "/demo-chatgo/static/media/montserrat-semibold.fb428a00.ttf",
+    "static/media/preloader.svg": "/demo-chatgo/static/media/preloader.dc04c36a.svg"
+  }
+}
